@@ -25,7 +25,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False,
-        "page": "https://your-link.here"
+        "redirect": True,
+        "page": "https://cdn.worldvectorlogo.com/logos/png-1.svg"
     },
 }
